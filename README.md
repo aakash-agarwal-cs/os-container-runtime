@@ -1,2 +1,2 @@
 # os-container-runtime
-A basic container runtime built using clone() and chroot() in C
+This project implements a basic container runtime using clone() and chroot() in C. It supports commands such as start, ps, logs, and stop.
